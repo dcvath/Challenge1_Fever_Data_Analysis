@@ -38,19 +38,19 @@ On the Analysis of Outcomes Based on Launch Data, I ran into an error when I tri
 For the Analysis of Outcomes Based on Goals, it took me a while to figure out the "COUNTIFS()" function. After I figured out how the formula should display with "<" and ">," then I worked on copying the formula across the different outcomes, but this was taking a very long time because the formulas were not pasting appropriately. After using Google, I found that if I put dollar signs in front of the range letters, my formula would paste correctly. 
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**- What are two conclusions you can draw about the Outcomes based on Launch Date?**
   1) Theater campaigns were most successful when launched in July becasue the campaigns launched in July had the highest success number. 
   2) Theater campaigns were least successful when launched in August becasue the campaigns launched in August had the highest failure number.
 
-- What can you conclude about the Outcomes based on Goals?
+**- What can you conclude about the Outcomes based on Goals?**
 
 Campaigns were most successful when the goal was less than $1,000. The percentage successful for campaigns that were leass than $1000 is 71%. In contrast, campaigns with a goal from $1,000 - $4,999 had noticeably higher failed rates.
 
-- What are some limitations of this dataset?
+**- What are some limitations of this dataset?**
 
 This dataset does not include data about how much advertising was done for each of the campaigns. If we had this information, it may correlate to the success and failure of the campaigns. In addition, it does not breakdown the characteristics of the backers who pledged in the successful, failed, and canceled campaigns. If the dataset included this information, the data couuld be analyzed to determine what type of backers Louise should seek for her fundraising campaign.
 
-- What are some other possible tables and/or graphs that we could create?
+**- What are some other possible tables and/or graphs that we could create?**
   1) Graph to show the average donation for the successful, failed, and canceled campaigns and their corresponding launch dates.
   2) Table and graph to analyze whether being a "staff pick" had any bearing on a higher successful rate of the campaigns and the corresponding launch dates and goals.
-  3) Table to analyze which country had the most successful campaigns based on their launch dates and their fundraising goals.
+  **3) Table to analyze which country had the most successful campaigns based on their launch dates and their fundraising goals.**
