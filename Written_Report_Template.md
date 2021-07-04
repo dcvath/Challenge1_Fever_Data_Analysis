@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This is an analysis of Louise's fundraising for her play, Fever. The fundraising is approaching its goal in a relatively short period of time. Due to this fact, Louisa requested an analysis of how different campaigns fared in relation to their launch dates and their funding goals.
+This is an analysis to provide Louise's with additional information regarding fundraising for her play, Fever. The fundraising is approaching its goal in a relatively short period of time. Due to this fact, Louise requested an analysis of how different campaigns fared in relation to their launch dates and their funding goals.
 
 ### Purpose
 Visualize campaign outcomes based on their launch dates and their funding goals to give Louisa an idea of where her fundraising campaign might finish.
@@ -27,6 +27,6 @@ Campaigns were most successful when the goal was less than $1,000. The percentag
 This dataset does not include data about how much advertising was done for each of the campaigns. If we had this information, it may correlate to the success and failure of the campaigns. In addition, it does not breakdown the characteristics of the backers who pledged in the successful, failed, and canceled campaigns. If the dataset included this information, the data couuld be analyzed to determine what type of backers Louise should seek for her fundraising campaign.
 
 - What are some other possible tables and/or graphs that we could create?
-  1) Graph to show the average donation for the successful, failed, and canceled campaigns.
-  2) Table and graph to analyze whether being a "staff pick" had any bearing on a higher successful rate of the campaigns.
-  3) Table to analyze which country had the most successful campaigns.
+  1) Graph to show the average donation for the successful, failed, and canceled campaigns and their corresponding launch dates.
+  2) Table and graph to analyze whether being a "staff pick" had any bearing on a higher successful rate of the campaigns and the corresponding launch dates and goals.
+  3) Table to analyze which country had the most successful campaigns based on their launch dates and their fundraising goals.
