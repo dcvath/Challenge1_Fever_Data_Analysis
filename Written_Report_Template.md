@@ -26,7 +26,7 @@ For the Analysis of Outcomes Based on Goals, I created a sheet titled, "Outcomes
 - Percentage Failed
 - Percentage Canceled
 
-In the "Goal" column, I listed out the dollar-amount ranges for the goal amounts. Then, I used the "COUNTIFS()" function on the "Number Successful," "Number Failed," and "Number Canceled" columns. I filtered these columns accordingly. I used the "SUM()" function fill-in the "Total Projects" column. I calculated the the percentage of "successful," "failed," and "canceled projects" by using a function to divide the respective outcome by the total projects. 
+In the "Goal" column, I listed out the dollar-amount ranges for the goal amounts. Then, I used the "COUNTIFS()" function on the "Number Successful," "Number Failed," and "Number Canceled" columns. I filtered these columns accordingly. I used the "SUM()" function to fill-in the "Total Projects" column. I calculated the the percentage of "successful," "failed," and "canceled" projects by using a function to divide the respective outcome by the total projects. 
 
 Next, I created a pivot table using the sheet I created. Then, I created a line chart of that pivot table and added the title, "Outcomes Based on Goal" to the chart. Please see a screen shot of this line chart below. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85654649/124370487-6bd6e900-dc46-11eb-84ff-dac785d34c2d.png)
