@@ -33,12 +33,11 @@ Next, I created a pivot table using the sheet I created. Then, I created a line 
 
 
 ### Challenges and Difficulties Encountered
-On the Analysis of Outcomes Based on Launch Data, I ran into an error when I tried to use the "Years()" function, but I did some research on Google and found the error I made. It took a while for me to figure out how to just show the months in the pivot table, but after troubleshooting by removing and adding different pieces from "Filters" field, I figured it out. 
+On the Analysis of Outcomes Based on Launch Data, I ran into an error when I tried to use the "Years()" function, but I did some research on Google and found the error I made. It took a while for me to figure out how to just show the months in the pivot table, but after troubleshooting by removing and adding different pieces from the "Filters" field, I figured it out. 
 
-For the Analysis of Outcomes Based on Goals, it took me a while to figure out the "COUNTIFS()" function. After I figured out how the formula should display, then I worked on copying the formula across the difference outcomes, but this was taking a very long time because the formulas were not pasting appropriately. After using Google, I found that if I put dollar signs in front of the range letters, my formula would paste correctly. 
+For the Analysis of Outcomes Based on Goals, it took me a while to figure out the "COUNTIFS()" function. After I figured out how the formula should display with "<" and ">," then I worked on copying the formula across the different outcomes, but this was taking a very long time because the formulas were not pasting appropriately. After using Google, I found that if I put dollar signs in front of the range letters, my formula would paste correctly. 
 
 ## Results
-
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   1) Theater campaigns were most successful when launched in July becasue the campaigns launched in July had the highest success number. 
   2) Theater campaigns were least successful when launched in August becasue the campaigns launched in August had the highest failure number.
