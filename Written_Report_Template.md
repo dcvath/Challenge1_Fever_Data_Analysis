@@ -44,13 +44,13 @@ For the Analysis of Outcomes Based on Goals, it took me a while to figure out th
 
 **- What can you conclude about the Outcomes based on Goals?**
 
-Campaigns were most successful when the goal was less than $1,000. The percentage successful for campaigns that were leass than $1000 is 71%. In contrast, campaigns with a goal from $1,000 - $4,999 had noticeably higher failed rates.
+    Campaigns were most successful when the goal was less than $1,000. The percentage successful for campaigns that were leass than $1000 is 71%. In contrast, campaigns with a goal from $1,000 - $4,999 had noticeably higher failed rates.
 
 **- What are some limitations of this dataset?**
 
-This dataset does not include data about how much advertising was done for each of the campaigns. If we had this information, it may correlate to the success and failure of the campaigns. In addition, it does not breakdown the characteristics of the backers who pledged in the successful, failed, and canceled campaigns. If the dataset included this information, the data couuld be analyzed to determine what type of backers Louise should seek for her fundraising campaign.
+    This dataset does not include data about how much advertising was done for each of the campaigns. If we had this information, it may correlate to the success and failure of the campaigns. In addition, it does not breakdown the characteristics of the backers who pledged in the successful, failed, and canceled campaigns. If the dataset included this information, the data couuld be analyzed to determine what type of backers Louise should seek for her fundraising campaign.
 
 **- What are some other possible tables and/or graphs that we could create?**
   1) Graph to show the average donation for the successful, failed, and canceled campaigns and their corresponding launch dates.
   2) Table and graph to analyze whether being a "staff pick" had any bearing on a higher successful rate of the campaigns and the corresponding launch dates and goals.
-  **3) Table to analyze which country had the most successful campaigns based on their launch dates and their fundraising goals.**
+  3) Table to analyze which country had the most successful campaigns based on their launch dates and their fundraising goals.
