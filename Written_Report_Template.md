@@ -17,8 +17,11 @@ Visualize campaign outcomes based on their launch dates and their funding goals 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+1) Theater campaigns were most successful when launched in July becasue the campaigns launched in July had the highest success number. 
+2) Theater campaigns were least successful when launched in August becasue the campaigns launched in August had the highest failure number.
 
 - What can you conclude about the Outcomes based on Goals?
+Campaigns were most successful when the goal was less than $1,000. The percentage successful for campaigns that were leass than $1000 is 71%. In contrast, campaigns with a goal from $1,000 - $4,999 had noticeably higher failed rates.
 
 - What are some limitations of this dataset?
 
