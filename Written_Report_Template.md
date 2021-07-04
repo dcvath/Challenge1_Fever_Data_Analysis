@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This is an analysis to provide Louise's with additional information regarding fundraising for her play, Fever. The fundraising is approaching its goal in a relatively short period of time. Due to this fact, Louise requested an analysis of how different campaigns fared in relation to their launch dates and their funding goals.
+This is an analysis to provide Louise with additional information regarding fundraising for her play, Fever. The fundraising is approaching its goal in a relatively short period of time. Due to this fact, Louise requested an analysis of how different campaigns fared in relation to their launch dates and their funding goals.
 
 ### Purpose
 Visualize campaign outcomes based on their launch dates and their funding goals to give Louisa an idea of where her fundraising campaign might finish.
@@ -9,6 +9,12 @@ Visualize campaign outcomes based on their launch dates and their funding goals 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+For the Outcomes Based on Launch Data analysis, I used the "Years()" function to add the year that each campaign launched. Then, I created a pivot table from the data in the Kickstarter tab. I filtered the data by "Parent Category" and "Years", added "Outcomes" as a column, "Data Ended Conversion" as a row, and "Outcomes" as a value. I filtered the column labels to only show "successful," "failed," and "canceled" and filtered "Parent Category" to only show the data for "theater."
+
+Next, I created a line chart from the pivot table and added a title to the chart and saved it as an image. Please see a screen shot of this line chart below. 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85654649/124370197-9b83f200-dc42-11eb-9e9a-722d86188c94.png)
+
+
 
 ### Analysis of Outcomes Based on Goals
 
